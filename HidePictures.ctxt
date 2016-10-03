@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pixval
+comment0.target=int\ changePixel(int)
+comment1.params=image
+comment1.target=edu.duke.ImageResource\ chop2hide(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ testchop2Hide()
+comment3.params=
+comment3.target=void\ testshift()
+comment4.params=im
+comment4.target=edu.duke.ImageResource\ shift(edu.duke.ImageResource)
+comment5.params=imstart\ imhide
+comment5.target=edu.duke.ImageResource\ combine(edu.duke.ImageResource,\ edu.duke.ImageResource)
+comment6.params=
+comment6.target=void\ hideImages()
+numComments=7
