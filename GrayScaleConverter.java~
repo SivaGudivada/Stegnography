@@ -8,7 +8,7 @@ import java.io.*;
 
 public class GrayScaleConverter {
 	//I started with the image I wanted (inImage)
-	public ImageResource makeGray(ImageResource inImage) 
+	private ImageResource makeGray(ImageResource inImage) 
 	{
 		
 		ImageResource outImage = new ImageResource(inImage.getWidth(), inImage.getHeight());

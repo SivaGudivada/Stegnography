@@ -7,7 +7,7 @@ import edu.duke.*;
 import java.io.*;
 
 public class GrayScaleConverter {
-	//I started with the image I wanted (inImage)
+
 	private ImageResource makeGray(ImageResource inImage) 
 	{
 		
